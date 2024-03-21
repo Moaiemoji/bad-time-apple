@@ -1,4 +1,4 @@
 # bad-time-apple
 Bad Apple in Undertale.
 
-[Play](Bad Time Apple.html)
+[Play](Bad%20Time%20Apple.html)
